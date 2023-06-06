@@ -1,2 +1,2 @@
 #!/bin/bash
-This school is so cool!
+echo "This school is so cool!"
